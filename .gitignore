@@ -11,6 +11,5 @@ model_project/bottleneck/
 model_project/bottleneck_human/
 model_project/animal/
 model_project/img/
-model_project/model/*
-*.pb
+
 sub3_web/sub3_ai/datasets/resembleImages
