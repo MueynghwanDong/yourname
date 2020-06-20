@@ -45,5 +45,4 @@
 - Django Template 기반 프론트엔드 구성
 
 #### result
-![얼굴인식](images/result_c.png)
 ![얼굴인식](images/result.png)
